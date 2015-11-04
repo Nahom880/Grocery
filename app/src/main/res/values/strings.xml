@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Utilities</string>
+
+    <string name="Grocery">Grocery!</string>
+    <string name="action_settings">Settings</string>
+    <string name="adding_items">Item List</string>
+</resources>
